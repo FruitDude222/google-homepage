@@ -10,6 +10,10 @@ body{
     padding-right: 20px;
 }
 
+.main-content{
+    margin: 0 auto;
+}
+
 #gmail{
     padding-right: 20px;
 }
@@ -19,5 +23,9 @@ body{
 }
 
 #logo, #suchfeld{
-    margin-left: 500;
+    
+}
+
+.buttons{
+    padding: 15px 32px;
 }
