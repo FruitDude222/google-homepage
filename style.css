@@ -1,0 +1,23 @@
+body{
+    background-color: #252525;
+}
+
+.header{
+    color: wheat;
+    font-family: Arial, sans-serif;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+#gmail{
+    padding-right: 20px;
+}
+
+#bilder{
+    padding-right: 60px;
+}
+
+#logo, #suchfeld{
+    margin-left: 500;
+}
