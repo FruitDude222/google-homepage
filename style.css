@@ -1,31 +1,27 @@
-body{
-    background-color: #252525;
-}
-
-.header{
-    color: wheat;
-    font-family: Arial, sans-serif;
-    text-align: right;
-    padding-top: 20px;
-    padding-right: 20px;
-}
-
-.main-content{
-    margin: 0 auto;
-}
-
-#gmail{
-    padding-right: 20px;
-}
-
-#bilder{
-    padding-right: 60px;
-}
-
-#logo, #suchfeld{
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     
 }
 
-.buttons{
-    padding: 15px 32px;
+a:link, a:visited{
+    color: black;
+}
+
+li {
+    display: inline;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    float: right;
+    padding-right: 20px;
+}
+
+#Signin {
+    
 }
